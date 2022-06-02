@@ -8,5 +8,6 @@ a=a*b;
 b=a/b;
 a=a/b;
 cout<<"After swap a= "<<a<<" b= "<<b<<endl;
+cout<<"Before swap b= "<<b<<" a= "<<a<<end;
 return 0;
 }
