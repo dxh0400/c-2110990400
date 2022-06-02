@@ -22,5 +22,7 @@ cout <<" After pre decrement by 1 the number is : " << num <<  endl;
  num = num - 1; // num is now decreased by 1.
  cout <<" After decreasing by 1 the number is : " << num << endl;
  cout << endl;
+ cout<<"this is how we do it";
+ cout<<"  "<<n;
  return 0;
 }
